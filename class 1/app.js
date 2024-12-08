@@ -32,11 +32,11 @@
 
 //prompts
 
-var userAnswer = prompt("Enter your age"); // "18"
+// var userAnswer = prompt("Enter your age"); // "18"
 
-if (userAnswer != 18) {
-  alert("You are eligible for new CNIC");
-}
-else{
-    alert("Sorry you are not eligible")
-}
+// if (userAnswer != 18) {
+//   alert("You are eligible for new CNIC");
+// }
+// else{
+//     alert("Sorry you are not eligible")
+// }
