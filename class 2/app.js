@@ -93,19 +93,20 @@
 // coding problem
 
 
-var list=[]
-var x=prompt("fruits or colors")
-if(x=="fruits"){
-    list.push("apple","mango","orange")
-    // alert(list)
-}else if(x=="colors"){
-    list.push("red","green","blue")
-    // alert(list)
-}
-else{
+// var list=[]
+// var x=prompt("fruits or colors")
+// if(x=="fruits"){
+//     list.push("apple","mango","orange")
+//     // alert(list)
+// }else if(x=="colors"){
+//     list.push("red","green","blue")
+//     // alert(list)
+// }
+// else{
     
-    // alert("")
-    list.push("invalid ans")
-}
+//     // alert("")
+//     list.push("invalid ans")
+// }
 
-alert(list)
+// alert(list)
+console.log("helllllllo")
