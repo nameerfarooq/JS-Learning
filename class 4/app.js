@@ -47,8 +47,8 @@
 //   console.log(myName[i]);
 // }
 
-var text =
-  "apple grapes oranges water melon World War II. green blue red white pink orange brown";
+// var text =
+//   "apple grapes oranges water melon World War II. green blue red white pink orange brown";
 
 // i = 0
 
@@ -58,4 +58,4 @@ var text =
 //   }
 // }
 // console.log(text);
-console.log(text.indexOf("melon"));
+// console.log(text.indexOf("melon"));
